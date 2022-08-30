@@ -12,6 +12,9 @@ something.
 
 You will need your own CTA API key to use this, and you will have to insert it into the code, as well as having an IDE to compile the code.
 
+Cover Image:
+Image by <a href="https://pixabay.com/users/slayerprincess-63389/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=191876">Lisa McKinley</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=191876">Pixabay</a>
+
 Created by Spencer Blackwell, 2022 
 
 
