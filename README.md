@@ -12,7 +12,7 @@ something.
 
 You will need your own CTA API key to use this, and you will have to insert it into the code, as well as having an IDE to compile the code.
 
-Created by Spencer Blackwell, 2022, Attribution-NonCommercial License (Do I need a license for this? Can I license it?)
+Created by Spencer Blackwell, 2022 
 
 
 
