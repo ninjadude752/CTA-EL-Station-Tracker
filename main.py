@@ -36,6 +36,7 @@ def comparison(lineList, runNumList, destList, arrTList, approachList, delayedLi
 
     else:
         for x in range(config.amt):
+            #test is local still, I think.
             if runNumList[x] != test[x]:
                 print("Changed")
                 test.clear()
