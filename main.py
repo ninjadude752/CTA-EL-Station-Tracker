@@ -33,12 +33,21 @@ def comparison(lineList, runNumList, destList, arrTList, approachList, delayedLi
     if (len(test) == 0):
         for data in runNumList:
             test.append(data)
+
     else:
-        for data in lineList:
-            if collections.Counter(test) != collections.Counter(runNumList):
-                print("Change")
-            if collections.Counter(test) == collections.Counter(runNumList):
-                print("Same")
+        for x in range(config.amt):
+            if runNumList[x] != test[x]:
+                print("Changed")
+                test.clear()
+            else:
+                print("No change")
+
+
+        #for data in lineList:
+            #if collections.Counter(test) != collections.Counter(runNumList):
+                #print("Change")
+            #if collections.Counter(test) == collections.Counter(runNumList):
+                #print("Same")
     return False
 
 
